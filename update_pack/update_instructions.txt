@@ -1,0 +1,8 @@
+Update instructions to version 3.2.1 -
+-If your app is customise, there may be some file replacements.
+
+-To update your application to version 3.3, check if you have current version 3.2.1
+-If your current version is 3.2.1, follow the instructions below.
+
+Very easy step >
+Go to System Settings in your application and update update_3.3.zip file.
